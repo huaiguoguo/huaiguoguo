@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 😄
+
+我是一个全栈程序员, 主要用的技术是：php, vue,  react; 
 
 <!--
 **huaiguoguo/huaiguoguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
