@@ -1,8 +1,3 @@
-### Hi there 😄
-
-
-
-
 ### Thanks for visiting my GitHub profile!:sweat_smile:
 
 #### About me:
