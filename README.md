@@ -6,7 +6,7 @@
 ### Thanks for visiting my GitHub profile!:sweat_smile:
 
 #### About me:
-- :🤔 I am a full stack programmer, the main technology is: PHP, eggjs, Vue, react;
+- 🤔 I am a full stack programmer, the main technology is: PHP, eggjs, Vue, react;
 - :sparkles: I'm a Software Engineer.
 - :yellow_heart: Coding is my passion.
 - :dizzy: Currently learning on [android](https://github.com/android).
