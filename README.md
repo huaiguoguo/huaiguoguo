@@ -7,7 +7,6 @@
 - :dizzy: Currently learning on [android](https://github.com/android) and [golang](https://github.com/golang/go).
 
 ![huaiguoguo's github stats](https://github-readme-stats.vercel.app/api?username=huaiguoguo&show_icons=true&include_all_commits=false&count_private=true&theme=radical&line_height=40)
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=huaiguoguo&theme=radical&hide=html)
 
 
