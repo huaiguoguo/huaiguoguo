@@ -3,7 +3,7 @@
 #### About me:
 - :sparkles: I'm a full stack Software Engineer, the main technology is: PHP, eggjs, Vue, react.
 - :yellow_heart: Coding is my passion.
-- :dizzy: Currently learning on [android](https://github.com/android) and [golang](https://github.com/golang/go).
+- :dizzy: Currently learning on [golang](https://github.com/golang/go).
 
 ![huaiguoguo's github stats](https://github-readme-stats.vercel.app/api?username=huaiguoguo&show_icons=true&include_all_commits=false&count_private=true&theme=radical&line_height=40)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=huaiguoguo&theme=radical&hide=html)
