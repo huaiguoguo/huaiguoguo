@@ -1,7 +1,7 @@
 ### Thanks for visiting my GitHub profile!:sweat_smile:
 
 #### About me:
-- :sparkles: I'm a full stack Software Engineer, the main technology is: PHP, eggjs, Vue, react.
+- :sparkles: I'm a full stack Software Engineer, the main technology is: PHP, Python, eggjs, Vue, react.
 - :yellow_heart: Coding is my passion.
 - :dizzy: Currently learning on [golang](https://github.com/golang/go).
 
